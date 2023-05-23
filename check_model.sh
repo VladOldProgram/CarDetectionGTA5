@@ -1,0 +1,1 @@
+python detect_gta5_car.py --model_path models/research/object_detection/efficientdet_d2_coco17_tpu-32/saved_model/ --path_to_labelmap training/labelmap.pbtxt --images_dir images/test/

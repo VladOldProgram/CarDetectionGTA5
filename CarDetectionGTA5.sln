@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CarDetectionGTA5", "CarDetectionGTA5.pyproj", "{BFE4CBD5-08E8-4B8B-AA23-E2156C04F706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE4CBD5-08E8-4B8B-AA23-E2156C04F706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE4CBD5-08E8-4B8B-AA23-E2156C04F706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C1B41A-1E08-4521-AE3B-A771FA8786B5}
+	EndGlobalSection
+EndGlobal
